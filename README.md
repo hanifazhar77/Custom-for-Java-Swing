@@ -46,15 +46,11 @@ This component **only support java development kit version 21+**
   <a href="https://github.com/k33ptoo" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/6637970?v=4" alt="GitHub K33PTOO" width="50" height="50"/>
   </a>
- &nbsp;
- &nbsp;
- &nbsp;
+
   <a href="https://github.com/RojeruSan" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/31359486?v=4" alt="GitHub Rojerusan" width="50" height="50"/>
   </a>
- &nbsp;
- &nbsp;
- &nbsp;
+
   <a href="https://github.com/DJ-Raven" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/58245926?v=4" alt="GitHub DJ-Raven" width="50" height="50"/>
   </a>
